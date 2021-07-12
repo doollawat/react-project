@@ -79,6 +79,9 @@ const TestimonialSectionStyle = styled.div`
     max-width: 768px;
     padding-left: 20px;
     padding-right: 20px;
+    .heading {
+      font-size: 3.5rem;
+    }
   }
 `;
 
