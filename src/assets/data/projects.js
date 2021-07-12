@@ -39,7 +39,7 @@ const projects = [
     id: uuidv4(),
     name: 'This project',
     desc: (
-      <a target="_blank" rel="noreferrer" href="/home">
+      <a target="_blank" rel="noreferrer" href="/">
         'This project is my completely portfolio from me, I create by REACT and
         it can responsive.'
       </a>
