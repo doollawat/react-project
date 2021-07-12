@@ -75,6 +75,11 @@ const TestimonialSectionStyle = styled.div`
     transition: 250ms ease-in opacity;
     transition-property: opacity, transform;
   }
+  @media only screen and (max-width: 768px) {
+    max-width: 768px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 `;
 
 export default function TestimonialsSection() {
