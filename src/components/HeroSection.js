@@ -125,7 +125,7 @@ const HeroStyles = styled.div`
     .hero__info {
       margin-top: 3rem;
       span {
-        margin-left: 24rem;
+        margin-left: 19rem;
         color: black;
       }
     }
